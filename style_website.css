@@ -1,0 +1,98 @@
+
+
+    body {
+
+        font-family: 'Open Sans', sans-serif;
+        font-size: 16px;
+
+      }
+      h1, h2, h3, h4, h5, h6 {
+      font-family: 'Indie Flower', cursive;
+
+      }
+
+     /*  Section: Navigation*/
+
+
+     section {
+        padding-top: 3rem;
+      }
+      
+
+    .bar_color{
+        background-color: #99a269;
+      }
+    /*  Section: Jumbotron*/
+
+    .jumbotron{ 
+    color: #ffffff;
+     justify-content: center;
+      align-items: center;
+      background-image: url('images/wallpaper.jpg');
+      background-size: cover;
+      background-position: center;
+      background-attachment: fixed;
+      min-height: 100vh;
+    }
+
+       /* Main heading, Guimauve & Friends, Section: Jumbotron*/
+     .main_heading
+     {color: pink;
+      text-align: center;
+      }     
+
+            /* Apple store link buttom*/
+
+     .app_button_color{  background-color: #99a269;
+      color: #fff
+      
+    }
+
+    .app_button_color:hover{  background-color: #99a269;
+      color: #000000;  
+    }
+
+    .display-4{text-align: center;
+    }
+
+
+    /*  Our works   */
+     .slider-text
+     {color: #000000;
+     }
+
+  
+            /* Features*/
+
+    .features{text-align: center;
+      
+      padding-top: 1.5rem ;
+       padding-bottom: 1rem ;
+
+    }
+
+    /* Products */
+
+    .card-header{
+      background-color:   #afaf83;
+      color: #ffffff;
+      text-align: center;
+
+    }
+ .card-footer{
+      text-align: center;
+
+    }
+    /* newsletters */
+
+    .section-newsletters{   background-color:  #99a269;
+      color: #ffffff;
+      padding-top: 5rem;
+      padding-bottom: 5rem;
+      padding-left: 5rem;
+      padding-right: 2rem;
+
+
+}
+
+
